@@ -1,4 +1,5 @@
 ### Hi there 👋
+### I'm dead
 
 <!--
 **stupid-kid-af/stupid-kid-af** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
